@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40287'
     url: http://www.gutenberg.org/2009/agents/40287
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39895#The-Church-of-St.-BuncoA-Drastic-Treatment-of-a-Copyrighted-Religion
 gutenberg_issued: '2012-06-02'
 gutenberg_type: Text
 identifiers:
